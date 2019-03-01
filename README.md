@@ -14,7 +14,7 @@ python pic.py resize 'filename.jpg' '800'
 ```
 
 to crop enter crop 'filename' 'width' 'height'
-``````bash
+```bash
 python pic.py crop 'filename.jpg' '800' '400'
 ```
 
