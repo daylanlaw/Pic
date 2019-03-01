@@ -1,6 +1,6 @@
 
 
-from pillow import Image
+from PIL import Image
 import os
 import sys
 
